@@ -14,7 +14,7 @@ const App = () => {
   return (
   <main className="relative">
     <Nav />
-    <section className="xl:padding-l xl:pr-8 wide:padding-r padding-b">
+    <section className="xl:padding-l pr-[5%] wide:padding-r padding-b">
       <Hero/>
     </section>
 
